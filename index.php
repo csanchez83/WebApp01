@@ -7,9 +7,9 @@
 </head>
 <body>
     <?
-        echo "<br><h5><center>Mi Primera Web App en Azure</center></h5>";
+        echo "<br><h1><center>Mi Primera Web App en Azure</center></h5>";
         echo "<br><hr>";
-        echo "Este es un Mensaje en PHP<br>";
+        echo "Este es un Mensaje en PHP<br><br>";
         echo "Hola Mundo Carlos Alberto Sanchez";
     ?>
 </body>
