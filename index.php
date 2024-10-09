@@ -9,7 +9,7 @@
     <?
         echo "<br><h5><center>Mi Primera Web App en Azure</center></h5>";
         echo "<br><hr>";
-        echo "Este es un Mensaje en PHP";
+        echo "Este es un Mensaje en PHP<br>";
         echo "Hola Mundo Carlos Alberto Sanchez";
     ?>
 </body>
