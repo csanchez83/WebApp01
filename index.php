@@ -11,6 +11,7 @@
         echo "<br><hr>";
         echo "Este es un Mensaje en PHP<br><br>";
         echo "Hola Mundo Carlos Alberto Sanchez";
+        echo "Nueva linea";
     ?>
 </body>
 </html>
