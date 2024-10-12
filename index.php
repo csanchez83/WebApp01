@@ -38,10 +38,10 @@
     <div class="container">
         <h1>Bienvenido al Curso de Cloud Computing</h1>
         <img src="https://via.placeholder.com/150" alt="Foto de perfil" class="profile-img">
-        <h2><?php echo 'Tu Nombre'; ?></h2>
-        <p><strong>Nombre de la Escuela:</strong> <?php echo 'Escuela XYZ'; ?></p>
-        <p><strong>Carrera:</strong> <?php echo 'Tu Carrera'; ?></p>
-        <p><strong>Semestre:</strong> <?php echo 'Tu Semestre'; ?></p>
+        <h2><?php echo 'Ing Carlos Alberto Sanchez Garcia'; ?></h2>
+        <p><strong>Nombre de la Escuela:</strong> <?php echo 'Tecnologico Nacional de México'; ?></p>
+        <p><strong>Carrera:</strong> <?php echo 'Ingenieria en Sistemas Computacionales'; ?></p>
+        <p><strong>Semestre:</strong> <?php echo '7o Semestre'; ?></p>
         <div class="icons">
             <a href="#"><i class="fab fa-facebook-f"></i></a>
             <a href="#"><i class="fab fa-twitter"></i></a>
