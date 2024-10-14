@@ -36,7 +36,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Bienvenido al Curso de Cloud Computing</h1>
+        <h1>Bienvenido al Curso de Cloud Computing en Lunes 14 Octubre</h1>
         <img src="IA_1.jpeg" alt="Foto de perfil" class="profile-img">
         <h2><?php echo 'Ing Carlos Alberto Sanchez Garcia'; ?></h2>
         <p><strong>Nombre de la Escuela:</strong> <?php echo 'Tecnologico Nacional de México'; ?></p>
